@@ -1,3 +1,3 @@
-<script>
 console.log('this is coming from github for chase');
-</script>
+var test = 'hello';
+console.log('this should get minified');
